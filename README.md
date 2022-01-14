@@ -20,6 +20,5 @@
 
 📫 How to reach me:
 * :envelope: Email me at nicolosirbiladze@gmail.com / nicolo.wtf
-* :speech_balloon: Dm on twitter id @sharvinshah26
 
 :earth_asia: Go through my [portfolio](https://nicolo.wtf) to know more about me.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:office: I’m currently working as a Founding board member and Lead Developer at [Georgian Liberty](https://georgianliberty.com).
+:office: I’m currently working on projects!
 
 [![NIcolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolooo&show_icons=true&layout=compact&theme=dark)](https://github.com/Nicolooo)
 

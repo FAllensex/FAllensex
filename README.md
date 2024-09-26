@@ -13,8 +13,11 @@
   * PHP
   * wordpress Plugin dev
   * Elementor API
-
-🌱 I’m currently learning Node.js
+  * web 3
+  * react-native
+  * tailwind
+  * svelte
+  * prisma
 
 🤔 If want to collaborate, you can reach out to me.
 
